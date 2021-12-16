@@ -11,7 +11,7 @@
   },
   "lint-staged": {
     "*.{js,ts,vue}": [
-      "npx eslint"
+      "npx eslint --fix"
     ]
   },
   "config": {
