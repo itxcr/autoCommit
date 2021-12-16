@@ -1,12 +1,12 @@
 {
   "name": "a",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "main": "index.js",
   "author": "xcr <itxcr@protonmail.com>",
   "license": "MIT",
   "scripts": {
     "prepare": "husky install",
-    "commit": "git-cz",
+    "commit": "git add . && git-cz",
     "release": "standard-version"
   },
   "lint-staged": {
