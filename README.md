@@ -48,7 +48,7 @@
    ```
 
    ```json
-   // .prettier.json
+   // .prettierrc.json
    {
      "trailingComma": "all",
      "tabWidth": 2,
